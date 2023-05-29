@@ -1,4 +1,4 @@
-Mobile and web application with flutter and firebase for the textile company MIKAELA, Ayacucho - Peru.
+Mobile and web application with flutter, firebase and Yolov5 for the textile company MIKAELA, Ayacucho - Peru.
 
 
 # HOME
