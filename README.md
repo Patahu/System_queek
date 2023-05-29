@@ -25,7 +25,8 @@ Mobile and web application with flutter and firebase for the textile company MIK
 
 1.
 
-![Uploading Screenshot_20230529_163817_com.example.sistemas_queek.jpg…]()
+![Screenshot_20230529_163817_com example sistemas_queek](https://github.com/Patahu/System_queek/assets/55921419/6ac73a95-30d6-4898-91bb-4b0c29fbb1c5)
+
 
 2.
 
